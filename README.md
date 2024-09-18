@@ -1,4 +1,4 @@
-# Geektime Rust 语言训练营
+# Simple usage of Rust Axum 
 
 ## 环境设置
 
